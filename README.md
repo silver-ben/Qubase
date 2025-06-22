@@ -4,10 +4,10 @@ A complete multi-model AI assistant template for any project. Clone this templat
 
 ## Features
 
-✅ **Multi-project architecture** with dropdown selector  
+✅ **Multi-project architecture** with dropdown selector, assign AI Model per project  
 ✅ **Full codebase context** (unlimited token budget per project)  
 ✅ **Smart file loading** with automatic GitHub sync  
-✅ **Professional ChatGPT-style interface**  
+✅ **Simple UI, ChatGPT-style interface**  
 ✅ **Mobile-responsive design**  
 ✅ **Interactive code features** (copy, define, locate, error check)  
 ✅ **Theme switching** (dark/light mode)  
