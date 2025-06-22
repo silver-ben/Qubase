@@ -5,7 +5,7 @@ A complete multi-model AI assistant template for any project. Clone this templat
 ## Features
 
 ✅ **Multi-project architecture** with dropdown selector  
-✅ **Full codebase context** (500K token budget per project)  
+✅ **Full codebase context** (unlimited token budget per project)  
 ✅ **Smart file loading** with automatic GitHub sync  
 ✅ **Professional ChatGPT-style interface**  
 ✅ **Mobile-responsive design**  
